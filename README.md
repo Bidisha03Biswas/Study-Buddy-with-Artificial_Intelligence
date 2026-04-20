@@ -79,7 +79,7 @@ Study_buddy/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Bidisha03Biswas/Study-Buddy-with-Artificial_Intelligence.git
-cd Study_buddy
+cd Study-Buddy-with-Artificial_Intelligence
 ```
 
 ### 2. Install dependencies
